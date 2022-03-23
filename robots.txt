@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://renaceruk.github.io/renacer-website/sitemap.xml

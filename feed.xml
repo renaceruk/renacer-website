@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Renacer UK</title>
+    <link href="https://renaceruk.github.io/renacer-website/feed.xml" rel="self" />
+    <link href="https://renaceruk.github.io/renacer-website" />
+    <updated>2022-03-23T12:38:34+00:00</updated>
+    <author>
+        <name>Renacer UK</name>
+    </author>
+    <id>https://renaceruk.github.io/renacer-website</id>
+
+    <entry>
+        <title>Nosotros</title>
+        <author>
+            <name>Renacer UK</name>
+        </author>
+        <link href="https://renaceruk.github.io/renacer-website/nosotros.html"/>
+        <id>https://renaceruk.github.io/renacer-website/nosotros.html</id>
+
+        <updated>2022-03-23T09:48:48+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contacto</title>
+        <author>
+            <name>Renacer UK</name>
+        </author>
+        <link href="https://renaceruk.github.io/renacer-website/contacto.html"/>
+        <id>https://renaceruk.github.io/renacer-website/contacto.html</id>
+
+        <updated>2022-03-23T12:38:34+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Unete a nuestras reuniones todos los domingos a las 12hs. O contactanos a traves de los siguientes medios.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Unete a nuestras reuniones todos los domingos a las 12hs. O contactanos a traves de los siguientes medios.</p>
+<ul>
+<li>St Marys Millennium Centre</li>
+<li>Liverpool L12 5EA</li>
+<li><a href="mailto:contacto@renacer.uk" class="mailhref" hidefocus="true">contacto@renacer.uk</a></li>
+<li><a href="https://api.whatsapp.com/send/?phone=4407342825534" class="phonehref" hidefocus="true">+44 07342825534</a></li>
+</ul>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19019.00432155077!2d-2.889111!3d53.4259933!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b21fa0b8d3edb%3A0x5c0013dcd76b3cc0!2sSt%20Marys%20Millennium%20Centre!5e0!3m2!1ses!2suk!4v1648038903751!5m2!1ses!2suk" allowfullscreen="allowfullscreen" loading="lazy"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
