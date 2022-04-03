@@ -27,14 +27,14 @@
             "url": "https://renaceruk.github.io/renacer-website/contacto.html",
             "title": "Contacto",
             "summary": "Unete a nuestras reuniones todos los domingos a las 12hs. O contactanos a traves de los siguientes medios.",
-            "content_html": "<p>Unete a nuestras reuniones todos los domingos a las 12hs. O contactanos a traves de los siguientes medios.</p>\n<ul>\n<li>St Marys Millennium Centre</li>\n<li>Liverpool L12 5EA</li>\n<li><a href=\"mailto:contacto@renacer.uk\" class=\"mailhref\" hidefocus=\"true\">contacto@renacer.uk</a></li>\n<li><a href=\"https://api.whatsapp.com/send/?phone=4407342825534\" class=\"phonehref\" hidefocus=\"true\">+44 07342825534</a></li>\n</ul>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19019.00432155077!2d-2.889111!3d53.4259933!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b21fa0b8d3edb%3A0x5c0013dcd76b3cc0!2sSt%20Marys%20Millennium%20Centre!5e0!3m2!1ses!2suk!4v1648038903751!5m2!1ses!2suk\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></div>\n<p> </p>",
+            "content_html": "<p>Unete a nuestras reuniones todos los domingos a las 12hs. O contactanos a traves de los siguientes medios.</p>\n<ul>\n<li><a href=\"https://maps.google.com/maps/dir//St+Marys+Millennium+Centre+Meadow+Lane+Liverpool+L12+5EA/@53.4336011,-2.9088969,13z/data=!4m5!4m4!1m0!1m2!1m1!1s0x487b21fa0b8d3edb:0x5c0013dcd76b3cc0\" target=\"_blank\" rel=\"noopener noreferrer\">St Marys Millennium Centre</a></li>\n<li><a href=\"https://maps.google.com/maps/dir//St+Marys+Millennium+Centre+Meadow+Lane+Liverpool+L12+5EA/@53.4336011,-2.9088969,13z/data=!4m5!4m4!1m0!1m2!1m1!1s0x487b21fa0b8d3edb:0x5c0013dcd76b3cc0\" target=\"_blank\" rel=\"noopener noreferrer\">Liverpool L12 5EA</a></li>\n<li><a href=\"mailto:contacto@renacer.uk\" class=\"mailhref\" hidefocus=\"true\">contacto@renacer.uk</a></li>\n<li><a href=\"https://api.whatsapp.com/send/?phone=4407342825534\" class=\"phonehref\" hidefocus=\"true\">+44 07342825534</a></li>\n<li>What3words: <a href=\"https://w3w.co/table.usual.grows\" target=\"_blank\" rel=\"noopener noreferrer\">///table.usual.grows</a></li>\n</ul>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19019.00432155077!2d-2.889111!3d53.4259933!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b21fa0b8d3edb%3A0x5c0013dcd76b3cc0!2sSt%20Marys%20Millennium%20Centre!5e0!3m2!1ses!2suk!4v1648038903751!5m2!1ses!2suk\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></div>\n<p> </p>",
             "author": {
                 "name": "Renacer UK"
             },
             "tags": [
             ],
             "date_published": "2022-03-23T09:47:57+00:00",
-            "date_modified": "2022-03-23T12:38:34+00:00"
+            "date_modified": "2022-04-03T08:16:50+01:00"
         }
     ]
 }
